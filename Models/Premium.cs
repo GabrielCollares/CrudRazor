@@ -33,5 +33,5 @@ public class Premium
 
     public Student? Student { get; set; }
 
-    public List<Premium> Premiuns { get; set; } = new();
+    public List<Premium> Premiums { get; set; } = new();
 }
